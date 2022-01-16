@@ -27,7 +27,7 @@ window.onscroll = function () {
         else{
             sabir.style.display = 'block';
         }
-        if (scrollY >= 200){
+        if (scrollY >= 122){
             document.querySelector('.main').style.background = 'linear-gradient(#376281, #10001f)';
         }
         else{
